@@ -8,3 +8,9 @@ NOTE: The extractor.py and the related files are already in the "python past" fi
 Related links
 	https://prodi.gy/prodigy_flowchart_ner-36f76cffd9cb4ef653a21ee78659d366.pdf
 (pdf for the flow chart shoeing the machanism of prodigy)
+
+
+
+
+#rss feeds
+https://holwech.github.io/blog/Automatic-news-scraper/
