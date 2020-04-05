@@ -1,9 +1,11 @@
 from monkeylearn import MonkeyLearn
+ModelID= 'ex_zU4txsUn'
+MonkeyLearnAPIKey= '09c96df13fe78cfbf8ae9b56a824cf8106640d14'
 
-ml = MonkeyLearn('[YOUR_API_KEY]')
-model_id = '[MODEL_ID]'
+ml = MonkeyLearn('[MonkeyLearnAPIKey]')
+model_id = '[ModelID]'
 data = ['first text', {'text': 'the meeting is at 10 AM', 'external_id': 'ANY_ID'}, '']
-response = ml.extractors.extract(model_id, data=data)
+response = ml.extractors.extract(ModelID, data=data)
 print(response.body)
 
 
