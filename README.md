@@ -15,7 +15,7 @@ https://github.com/susanli2016/NLP-with-Python/blob/master/NER_NLTK_Spacy.ipynb
 
 https://github.com/susanli2016/NLP-with-Python/blob/master/NER_sklearn.ipynb
 
-
+==============================================================
  
 1. Trying with prodigy
 Related links
@@ -25,9 +25,16 @@ Related links
 
 
 
-#rss feeds
-https://holwech.github.io/blog/Automatic-news-scraper/
-
 2. Monkey learn API file added
 	- authentication and response is working
 [pip install monkeylearn]
+
+======================================================
+3. RSS Feeds
+
+
+#rss feeds
+	https://holwech.github.io/blog/Automatic-news-scraper/
+
+	https://blog.feedspot.com/indian_news_rss_feeds/
+This site contains the rss feeds of indian news.
