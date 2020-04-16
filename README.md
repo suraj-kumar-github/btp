@@ -38,3 +38,9 @@ Related links
 
 	https://blog.feedspot.com/indian_news_rss_feeds/
 This site contains the rss feeds of indian news.
+
+
+
+4. pandas
+
+https://github.com/KeithGalli/pandas/blob/master/Pandas%20Data%20Science%20Tutorial.ipynb
