@@ -1,0 +1,145 @@
+Country,Year,Month,Event,State/Province
+India,2020,February,Civil unrest,Delhi
+India,2017,August,Civil unrest,Haryana
+India,2013,August,Civil unrest,Uttar Pradesh
+India,2006,May,Civil unrest,Gujarat
+India,2002,February,Civil unrest,Gujarat
+India,2003,February,Civil unrest,Assam
+India,2011,April,Civil unrest,Delhi
+India,2015,June,Civil unrest,Delhi
+India,2014,September,Civil unrest,West Bengal
+India,2016,February,Civil unrest,Haryana
+India,2018,August,Flood,Kerala
+India,2017,August,Flood,Maharashtra
+India,2017,July,Flood,Gujarat
+India,2017,July,Flood,West Bengal
+India,2017,August,Flood,Bihar
+India,2017,July,Flood,Assam
+India,2016,July,Flood,Assam
+India,2015,November,Flood,Tamil Nadu
+India,2015,June,Flood,Gujarat
+India,2015,August,Flood,Assam
+India,2014,September,Flood,Kashmir
+India,2007,August,Flood,Bihar
+India,2008,August,Flood,Bihar
+India,2019,May,Attack,Maharashtra
+India,2019,February,Attack,Kashmir
+India,2018,March,Attack,Chhattisgarh
+India,2018,February,Attack,Kashmir
+India,2017,July,Attack,Kashmir
+India,2017,April,Attack,Chhattisgarh
+India,2016,September,Attack,Kashmir
+India,2016,August,Attack,Assam
+India,2016,January,Attack,Punjab
+India,2015,July,Attack,Punjab
+India,2015,June,Attack,Manipur
+India,2014,December,Attack,Assam
+India,2014,May,Attack,Jharkhand
+India,2014,May,Attack,Assam
+India,2014,April,Attack,Jharkhand
+India,2014,March,Attack,Chhattisgarh
+India,2018,May,Disease outbreak,Kerala
+India,2002,February,Disease outbreak,Himachal Pradesh
+India,2017,May,Disease outbreak,Gujarat
+India,2006,February,Disease outbreak,Karnataka
+India,2006,February,Disease outbreak,Maharashtra
+India,2005,July,Disease outbreak,Uttar Pradesh
+India,2005,March,Disease outbreak,Delhi
+India,2003,June,Disease outbreak,Delhi
+India,2003,April,Disease outbreak,Maharashtra
+India,2001,July,Disease outbreak,Odisha
+China,2019,October,Civil unrest,Hong Kong
+China,2011,September,Civil unrest,Guangdong
+China,2008,March,Civil unrest,Tibet
+China,2009,July,Civil unrest,Xinjiang
+China,2008,March,Civil unrest,Sichuan
+China,2012,June,Civil unrest,Guangdong
+China,2011,November,Civil unrest,Guangdong
+China,2011,March,Civil unrest,Yunnan
+China,2010,January,Civil unrest,Suzhou
+China,2008,June,Civil unrest,Guizhou
+China,2020,January,Disease outbreak,Hubei
+China,2018,February,Disease outbreak,Jiangsu
+China,2016,January,Disease outbreak,Guangdong
+China,2016,April,Disease outbreak,Guangdong
+China,2016,March,Disease outbreak,Beijing
+China,2017,January,Disease outbreak,Hong Kong
+China,2015,January,Disease outbreak,Fujian
+China,2015,January,Disease outbreak,Yunnan
+China,2014,January,Disease outbreak,Zhejiang
+China,2014,December,Disease outbreak,Guangdong
+China,2019,July,Flood,Beijing
+China,2018,July,Flood,Gansu
+China,2018,June,Flood,Guangdong
+China,2017,June,Flood,Hunan
+China,2017,June,Flood,Guizhou
+China,2016,July,Flood,Hubei
+China,2015,June,Flood,Jiangsu
+China,2015,June,Flood,Hubei
+China,2013,July,Flood,Sichuan
+China,2013,July,Flood,Beijing
+China,2016,December,Attack,Xinjiang
+China,2015,June,Attack,Xinjiang
+China,2014,March,Attack,Yunnan
+China,2013,October,Attack,Beijing
+China,2013,April,Attack,Xinjiang
+China,2011,July,Attack,Xinjiang
+China,2002,April,Attack,Sichuan
+China,2001,March,Attack,Hebei
+China,2007,January,Attack,Xinjiang
+China,2008,August,Attack,Xinjiang
+Pakistan,2010,May,Civil unrest,Sindh
+Pakistan,2007,December,Civil unrest,Khyber Pakhtunkhwa
+Pakistan,2007,December,Civil unrest,Punjab
+Pakistan,2007,December,Civil unrest,Sindh
+Pakistan,2010,August,Civil unrest,Sindh
+Pakistan,1972,July,Civil unrest,Sindh
+Pakistan,2011,July,Civil unrest,Sindh
+Pakistan,2011,August,Civil unrest,Sindh
+Pakistan,2019,May,Attack,Punjab
+Pakistan,2019,April,Attack,Balochistan
+Pakistan,2019,January,Attack,Balochistan
+Pakistan,2019,January,Attack,Khyber Pakhtunkhwa
+Pakistan,2018,January,Attack,Balochistan
+Pakistan,2018,February,Attack,Khyber Pakhtunkhwa
+Pakistan,2018,March,Attack,Punjab
+Pakistan,2018,April,Attack,Balochistan
+Pakistan,2018,July,Attack,Khyber Pakhtunkhwa
+Pakistan,2018,July,Attack,Balochistan
+Pakistan,2018,October,Attack,Balochistan
+Pakistan,2017,January,Attack,Khyber Pakhtunkhwa
+Pakistan,2017,February,Attack,Punjab
+Pakistan,2017,February,Attack,Sindh
+Pakistan,2017,March,Attack,Khyber Pakhtunkhwa
+Pakistan,2017,March,Attack,Balochistan
+Pakistan,2017,June,Attack,Khyber Pakhtunkhwa
+Pakistan,2017,July,Attack,Punjab
+Pakistan,2017,August,Attack,Balochistan
+Pakistan,2017,October,Attack,Balochistan
+Pakistan,2017,December,Attack,Balochistan
+Pakistan,2019,July,Disease outbreak,Gilgit Baltistan
+Pakistan,2019,July,Disease outbreak,Khyber Pakhtunkhwa
+Pakistan,2019,April,Disease outbreak,Sindh
+Pakistan,2016,October,Disease outbreak,Balochistan
+Pakistan,2011,June,Disease outbreak,Khyber Pakhtunkhwa
+Pakistan,2010,September,Disease outbreak,Sindh
+Pakistan,2010,September,Disease outbreak,Punjab
+Pakistan,2010,September,Disease outbreak,Khyber Pakhtunkhwa
+Pakistan,2007,November,Disease outbreak,Khyber Pakhtunkhwa
+Pakistan,2014,September,Flood,Punjab
+Pakistan,2013,August,Flood,Punjab
+Pakistan,2013,August,Flood,Balochistan
+Pakistan,2013,August,Flood,Khyber Pakhtunkhwa
+Pakistan,2013,August,Flood,Sindh
+Pakistan,2012,September,Flood,Sindh
+Pakistan,2012,September,Flood,Punjab
+Pakistan,2012,September,Flood,Balochistan
+Pakistan,2012,September,Flood,Khyber Pakhtunkhwa
+Pakistan,2011,August,Flood,Sindh
+Pakistan,2010,July,Flood,Sindh
+Pakistan,2010,July,Flood,Khyber Pakhtunkhwa
+Pakistan,2010,July,Flood,Balochistan
+Pakistan,2010,July,Flood,Gilgit Baltistan
+Pakistan,2010,July,Flood,Punjab
+Pakistan,2019,September,Flood,Khyber Pakhtunkhwa
+Pakistan,2017,August,Flood,Sindh
