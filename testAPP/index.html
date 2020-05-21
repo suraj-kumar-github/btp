@@ -1,0 +1,185 @@
+
+    <!DOCTYPE html>
+    <html>
+    <meta charset="utf-8">
+    <!--[if (gte IE 10)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!-->
+    <meta name="viewport" content="width=device-width">
+    
+    <head>
+        
+        <title>Event detection Report</title>
+        
+        <style>
+        body{
+            color: #2E2E2E;
+            font-family: 'Circular', Avenir, sans-serif;
+            background-color: #F2F2F2;
+            Margin: 0;
+            padding: 0;
+            
+        }
+    
+        header{
+            margin: 0px;
+            padding: 5%;
+            text-align: center;
+            color:#ffffff;
+            background-color: #3c094d;
+        }
+        table {
+          border-collapse: collapse;
+          margin: 15px;
+        }
+
+        table, td, th {
+            
+            
+            border: 1px solid black;
+            min-width: 100px;
+            text-align: center;
+            
+
+        }
+        .bad {
+            background-color:#df5f5f;
+        }
+        .good {
+            background-color:#84d984;
+        }
+
+        span {
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+        footer{
+            background-color:#2E2E2E;
+            color:#f2f2f2;
+            margin: 10px 0;
+            padding:10px;
+        }
+        
+        footer ul{ 
+            list-style-type: none; 
+        }
+        label, input {
+            display: block;
+        }
+        input {
+            width: 85%;
+            padding: 10px;
+            margin-bottom: 15px;
+        }
+
+        input:required {
+            border-right: 10px solid gray;
+        }
+
+        input:optional {
+            border-right: 10px solid silver;
+        }
+
+        input:focus:invalid {
+             border-left: 10px solid red;   
+        }
+
+        input:focus:valid {
+             border-left: 10px solid green;       
+        }
+
+        .nowrap label, .nowrap input {
+            display: inline;
+            width: auto;
+        }
+        .nowrap input:optional {
+            border: 0;
+        }
+
+        textarea {
+            width: 90%;
+            height: 150px;
+        }
+
+        fieldset {
+            margin-bottom: 30px;
+            background-color: #DDD;
+        }
+
+        legend {
+            background-color: #DDD;
+            padding: 2px 12px;
+        }
+
+        input[type=submit] {
+            font-size: large;
+            width: 100%;
+            padding: 15px;
+            background-color: yellow;
+            margin-top: 25px;
+        }
+        
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>Forecasting Events Via Predictive Analysis</h1>
+        </header>
+        
+        <main>
+        <section>
+            <form id=form name='predict' action="http://localhost:5000/result" method="POST"><fieldset><legend>Features</legend><ul><label for=country>Country</label><select id =country name=country>
+                
+                <option value="Pakistan">Pakistan</option>
+                <option value="China">China</option>
+                <option value="Bangladesh">Bangladesh</option>
+                <option value="Afganistan">Afganistan</option>
+                <option value="India" selected>India</option>
+                
+            </select><label for=year>Year</label>
+            <input type="number" min="2020" max="2030" pattern="[0-9]*" id=year name=year>
+            </select><label for=month>Month</label><select id =month name=month>
+                <option value="January" selected>January</option>
+                <option value="February">February</option>
+                <option value="March">March</option>
+                <option value="April">April</option>
+                <option value="May">May</option>
+                <option value="June">June</option>
+                <option value="July">July</option>
+                <option value="August">August</option>
+                <option value="September">September</option>
+                <option value="October">October</option>
+                <option value="November">November</option>
+                <option value="December">December</option>
+                
+            </select><label for=event>Event</label><select id =event name=event>
+                <option value="Civil unrest">Civil unrest</option>
+                <option value="Attack">Attack</option>
+                <option value="Disease outbreak">Disease outbreak</option>
+                <option value="Flood" selected>Flood</option>
+                
+            </select></ul></fieldset><input type="submit" value="Predict"></form><br>
+        </section>
+        <hr>
+        <section>
+            %TABLE_DATA_EVENT%
+        </section>
+        </main>
+        <hr>
+        <footer>
+            <nav id>
+                <ul>
+                    <li>
+                        <p>Shubham</p>
+                    </li>
+                    <li>
+                        <p>Saifullah</p>
+                    </li>
+                    <li>
+                        <p>Suraj</p>
+                    </li>
+                </ul>
+            </nav>
+        </footer>
+
+    </body>
+    </html>
+    
